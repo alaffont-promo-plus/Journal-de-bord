@@ -46,7 +46,7 @@ https://riviera-realisation.atlassian.net/wiki/spaces/DOCUMENTAT/pages/848855041
 ### Support technique et corrections
 - résolu d'un ticket d'onboarding redirigé vers le backend par Maxime  
 https://github.com/Promo-plus/APIComptabilite/pull/465  
-tick3010423-impossible-de-pouvoir-supprimer-des-modeles-de-bilans - #465
+tick3010423-impossible-de-pouvoir-supprimer-des-modeles-de-bilans - #465   
 J'ai corrigé en même temps le fait que sur la page de création de modèle de bilan, le fait   
 de remplir le champ description, le backend renvoyé une erreur et la description revenait à sa  
 valeur initiale.
