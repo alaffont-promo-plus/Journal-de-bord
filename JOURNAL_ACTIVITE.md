@@ -1,19 +1,65 @@
-Journal d'activité
-Lundi 26 octobre 2026
-💻 Développement
-🔍 Relecture de Pull Requests
-📋 Relecture de cahiers des charges
-🛠️ Support technique et corrections
-👥 Réunions et échanges
-Daily meeting
-⏳ En cours / À reprendre demain
-✅ Points terminés
-Mardi 27 octobre 2026
-💻 Développement
-🔍 Relecture de Pull Requests
-📋 Relecture de cahiers des charges
-🛠️ Support technique et corrections
-👥 Réunions et échanges
-Daily meeting
-⏳ En cours / À reprendre demain
-✅ Points terminés
+
+# Journal d'activité
+
+## Lundi 26 octobre 2026
+
+### Développement
+- 
+
+### Relecture de Pull Requests
+- 
+
+### Relecture de cahiers des charges
+- 
+
+### Support technique et corrections
+- 
+
+### Réunions et échanges
+- Daily meeting
+- 
+
+### En cours / À reprendre demain
+- 
+
+### Points terminés
+- 
+
+---
+
+## Vendredi 23 octobre 2026
+
+### Développement
+- développement sur formule en cours
+https://github.com/Promo-plus/APIComptabilite/issues/434
+
+### Relecture de Pull Requests
+- j'ai relu plusieurs pr et j'ai laissé un commentaire pour Nicolas sur la pr
+https://github.com/Promo-plus/Tools/pull/228
+propriété maven dans le pom avec la possibilité de la surchargé lors du maven clean package -Ddeploy.dir=E:
+
+
+### Relecture de cahiers des charges
+- j'ai laissé des commentaires sur le cahier des charges de bilan v2
+https://riviera-realisation.atlassian.net/wiki/spaces/DOCUMENTAT/pages/848855041/Bilan+V2
+
+### Support technique et corrections
+- résolu d'un ticket d'onboarding redirigé vers le backend par Maxime
+https://github.com/Promo-plus/APIComptabilite/pull/465
+tick3010423-impossible-de-pouvoir-supprimer-des-modeles-de-bilans - #465
+
+### Réunions et échanges
+- Daily meeting
+- 
+
+### En cours / À reprendre demain
+- dev sur formule
+- pr sur la consolidation
+https://github.com/Promo-plus/APIComptabilite/pull/458
+- pr tick3010423-impossible-de-pouvoir-supprimer-des-modeles-de-bilans - #465
+https://github.com/Promo-plus/APIComptabilite/pull/465
+
+### Points terminés
+- 
+
+---
