@@ -5,6 +5,8 @@
 
 ### Développement
 - grille de prix soucis avec la sauvegarde des informations de la grille en simulation qui a été écrasé par les infos de la grille active.
+https://github.com/Promo-plus/APIComptabilite/pull/467
+- formule en cours
 
 ### Relecture de Pull Requests
 - 
