@@ -23,7 +23,9 @@
 - 
 
 ### Points terminés
-- 
+- pr tick3010423-impossible-de-pouvoir-supprimer-des-modeles-de-bilans - #465  
+https://github.com/Promo-plus/APIComptabilite/pull/465   
+déployé en recette et testé
 
 ---
 
