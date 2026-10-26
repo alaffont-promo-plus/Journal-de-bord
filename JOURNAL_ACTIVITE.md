@@ -26,8 +26,8 @@
 - pr tick3010423-impossible-de-pouvoir-supprimer-des-modeles-de-bilans - #465  
 https://github.com/Promo-plus/APIComptabilite/pull/465   
 déployé en recette et testé
-- pr tick3.010304 Avoir une vue consolidée de N bilan 
-https://github.com/Promo-plus/APIComptabilite/pull/458
+- pr tick3.010304 Avoir une vue consolidée de N bilan   
+https://github.com/Promo-plus/APIComptabilite/pull/458  
 déployé mais j'ai des doublons dans les clefs
 
 ---
