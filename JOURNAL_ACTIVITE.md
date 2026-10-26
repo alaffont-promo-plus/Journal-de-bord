@@ -4,7 +4,7 @@
 ## Lundi 26 octobre 2026
 
 ### Développement
-- 
+- grille de prix soucis avec la sauvegarde des informations de la grille en simulation qui a été écrasé par les infos de la grille active.
 
 ### Relecture de Pull Requests
 - 
