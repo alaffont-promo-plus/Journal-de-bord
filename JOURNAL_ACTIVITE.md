@@ -4,7 +4,8 @@
 ## Mardi 27 octobre 2026
 
 ### Développement
-- 
+- consolidation
+- bdc, la base est vide pour l'historique, 204 renvoyé par le backend
 
 ### Relecture de Pull Requests
 - https://github.com/Promo-plus/Mandat/pull/29
