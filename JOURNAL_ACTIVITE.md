@@ -22,7 +22,8 @@ https://github.com/Promo-plus/APIComptabilite/pull/467
 - 
 
 ### En cours / À reprendre demain
-- 
+- formule
+- soucis avec la consolidation qui ne marche pas, j'ai des doublons
 
 ### Points terminés
 - pr tick3010423-impossible-de-pouvoir-supprimer-des-modeles-de-bilans - #465  
