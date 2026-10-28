@@ -1,6 +1,32 @@
 
 # Journal d'activité
 
+## Mercredi 28 octobre 2026
+
+### Développement
+- 
+
+### Relecture de Pull Requests
+- 
+
+### Relecture de cahiers des charges
+- 
+
+### Support technique et corrections
+- 
+
+### Réunions et échanges
+- Daily meeting
+- 
+
+### En cours / À reprendre demain
+- 
+
+### Points terminés
+- 
+
+---
+
 ## Mardi 27 octobre 2026
 
 ### Développement
@@ -25,7 +51,11 @@
 - 
 
 ### Points terminés
-- 
+- pr en cours pour la consolidation   
+il faudrait mettre les données dans le bon format, BigDecimal sur deux virgules après la virgule et les doubles pas en écriture scientifique
+il faut touché Promolib
+
+
 
 ---
 
