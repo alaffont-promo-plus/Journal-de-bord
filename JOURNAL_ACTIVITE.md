@@ -4,10 +4,10 @@
 ## Mercredi 28 octobre 2026
 
 ### Développement
-- 
+- formule
 
 ### Relecture de Pull Requests
-- 
+- https://github.com/Promo-plus/Tools/pull/228/
 
 ### Relecture de cahiers des charges
 - 
@@ -30,7 +30,6 @@
 ## Mardi 27 octobre 2026
 
 ### Développement
-- consolidation
 - bdc, la base est vide pour l'historique, 204 renvoyé par le backend
 
 ### Relecture de Pull Requests
@@ -53,7 +52,7 @@
 ### Points terminés
 - pr en cours pour la consolidation   
 il faudrait mettre les données dans le bon format, BigDecimal sur deux virgules après la virgule et les doubles pas en écriture scientifique
-il faut touché Promolib
+il faut touché Promolib, c fait
 
 
 
