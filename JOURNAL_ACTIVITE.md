@@ -1,6 +1,34 @@
 
 # Journal d'activité
 
+
+
+## Jeudi 29 octobre 2026
+
+### Développement
+- formule
+
+### Relecture de Pull Requests
+- https://github.com/Promo-plus/SQL-deployment/pull/275
+
+### Relecture de cahiers des charges
+- 
+
+### Support technique et corrections
+- 
+
+### Réunions et échanges
+- Daily meeting
+- 
+
+### En cours / À reprendre demain
+- 
+
+### Points terminés
+- 
+
+---
+
 ## Mercredi 28 octobre 2026
 
 ### Développement
