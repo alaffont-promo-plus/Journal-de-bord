@@ -6,12 +6,10 @@
 ## Vendredi 30 octobre 2026
 
 ### Développement
-- formule
-- j'attends les colonnes qui peuvent être utilisées pour faire une formule 
-- je vois avec Maxime pour l'intégration dans le tableau de bilan
+-
 
 ### Relecture de Pull Requests
-- des pull requests
+- 
 
 ### Relecture de cahiers des charges
 - 
@@ -27,8 +25,7 @@
 - 
 
 ### Points terminés
-- 474 tick3.010481-grille-de-prix-en-simulation
-https://github.com/Promo-plus/APIComptabilite/issues/474
+- 
 
 
 ---
@@ -37,6 +34,8 @@ https://github.com/Promo-plus/APIComptabilite/issues/474
 
 ### Développement
 - formule
+- j'attends les colonnes qui peuvent être utilisées pour faire une formule 
+- je vois avec Maxime pour l'intégration dans le tableau de bilan
 
 ### Relecture de Pull Requests
 - https://github.com/Promo-plus/SQL-deployment/pull/275
@@ -55,7 +54,8 @@ https://github.com/Promo-plus/APIComptabilite/issues/474
 - 
 
 ### Points terminés
-- 
+- 474 tick3.010481-grille-de-prix-en-simulation
+https://github.com/Promo-plus/APIComptabilite/issues/474
 
 ---
 
