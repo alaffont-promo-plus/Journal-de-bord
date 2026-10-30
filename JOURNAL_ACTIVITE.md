@@ -11,6 +11,7 @@
 ### Relecture de Pull Requests
 - https://github.com/Promo-plus/Tools/pull/229
 - https://github.com/Promo-plus/Encaissements/pull/28
+- https://github.com/Promo-plus/SQL-deployment/pull/279
 
 ### Relecture de cahiers des charges
 - 
